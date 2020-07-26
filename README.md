@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I set at alarm for 5am and end up sleeping at that time.
 
+![Abhijit's Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=abhijitramesh&show_icons=true&hide_border=false&title_color=03E6FF&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
