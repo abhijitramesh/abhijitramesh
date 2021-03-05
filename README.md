@@ -7,8 +7,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on building theGitLit
-- 🌱 I’m currently learning Applied Data Science with Python by University of Michigan
+- :spider_web: To get to know about my work and get the latese on Machine Learning visit [my website](https://abhijitramesh.me/)
+- 🌱 I’m currently learning Hands-on Machine Learning with Scikit-learn, Keras and Tensorflow
 - 👯 I’m looking to collaborate on applied AI projects.
 - 💬 Ask me about Android,Deep-Learning,Java,Python.
 - 📫 How to reach me: send an email to abhijitramesh2k@gmail.com or ping me in telegram @Abhijit_Ramesh or yet just [google me](https://www.google.com/search?q=abhijit+ramesh&rlz=1C5CHFA_enIN885IN887&oq=abhijit+ramesh)
